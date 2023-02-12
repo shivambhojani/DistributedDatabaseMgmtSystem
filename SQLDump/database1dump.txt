@@ -1,0 +1,2 @@
+create table table1((id int,first_name varchar(20),last_name varchar(20)));
+insert into table1 (id,first_name,last_name) values (1,demo,demo);

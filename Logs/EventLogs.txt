@@ -1,0 +1,13 @@
+User shivam tried to created duplicate database with name shivam|2022-04-08 22:12:03
+User chirag tried to created duplicate database with name ferindb2|2022-04-10 13:12:10
+User chirag tried to create duplicate table |2022-04-10 13:12:52
+User shivam started transaction: start transaction|2022-04-10 14:55:47
+User shivam executed invalid query: start transaction|2022-04-10 14:56:45
+User ferin79 executed invalid query: selct * from persons where personid=1|2022-04-10 21:31:00
+User shivam started transaction: start transaction|2022-04-10 21:55:08
+User shivam executed invalid query: start transaction|2022-04-10 21:57:55
+User shivam started transaction: start transaction|2022-04-10 22:01:15
+User shivam executed invalid query: start transaction|2022-04-10 22:02:18
+User shivam started transaction: start transaction|2022-04-10 22:05:12
+User shivam executed invalid query: start transaction|2022-04-10 22:05:31
+User shivam started transaction: start transaction|2022-04-10 22:08:04

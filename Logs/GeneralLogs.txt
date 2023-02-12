@@ -1,0 +1,92 @@
+shivam logged in at 2022-04-07 21:45:42.498
+shivam logged out at 2022-04-07 21:45:48.353
+shivam logged in at 2022-04-08 00:32:31.496
+shivam logged out at 2022-04-08 00:32:40.26
+shivam logged in at 2022-04-08 12:34:15.804
+shivam logged in at 2022-04-08 12:35:10.978
+shivam logged out at 2022-04-08 12:35:27.785
+shivam logged in at 2022-04-08 15:44:14.863
+shivam logged in at 2022-04-08 18:00:33.487
+shivam logged in at 2022-04-08 18:02:29.866
+shivam logged in at 2022-04-08 18:03:26.042
+shivam logged out at 2022-04-08 18:03:43.79
+shivam logged in at 2022-04-08 18:06:16.481
+ferin79 logged in at 2022-04-08 19:08:15.973
+ferin79 logged out at 2022-04-08 19:08:19.508
+ferin79 logged in at 2022-04-08 19:48:23.872
+ferin79 logged in at 2022-04-08 19:56:11.737
+ferin79 logged in at 2022-04-08 19:57:34.316
+ferin79 logged in at 2022-04-08 20:00:22.207
+ferin79 logged in at 2022-04-08 20:01:00.999
+ferin79 logged in at 2022-04-08 20:02:11.74
+ferin79 logged in at 2022-04-08 20:02:50.02
+ferin79 logged in at 2022-04-08 20:07:57.073
+ferin79 logged in at 2022-04-08 20:09:02.875
+ferin79 logged in at 2022-04-08 20:10:31.922
+ferin79 logged in at 2022-04-08 20:16:06.67
+<<<<<<< HEAD
+shivam logged in at 2022-04-08 21:57:28.046
+shivam logged in at 2022-04-08 21:58:20.705
+shivam logged in at 2022-04-08 22:01:08.444
+shivam logged in at 2022-04-08 22:11:42.208
+shivam logged in at 2022-04-08 22:15:29.673
+User shivam tried to created duplicate database with name shivam|2022-04-08 22:15:39
+shivam logged in at 2022-04-08 22:17:47.077
+shivam logged in at 2022-04-09 00:53:15.745
+shivam logged in at 2022-04-09 01:48:06.059
+shivam logged in at 2022-04-09 01:49:28.256
+shivam logged in at 2022-04-09 01:50:40.014
+User shivam tried to execute invalid Query use DATABASE1;|2022-04-09 01:52:01
+shivam logged in at 2022-04-09 11:14:43.673
+User shivam executed invalid query: database1|2022-04-09 11:15:09
+User shivam executed invalid query: database1;|2022-04-09 11:16:21
+shivam logged in at 2022-04-09 11:17:15.514
+shivam logged in at 2022-04-09 11:33:35.959
+shivam logged in at 2022-04-09 11:35:43.353
+User shivam tried to execute invalid Query use database1|2022-04-09 11:35:49
+shivam logged in at 2022-04-09 11:38:46.245
+=======
+abc logged in at 2022-04-08 20:29:53.657
+minusV logged in at 2022-04-08 21:36:20.801
+minusV logged in at 2022-04-08 21:38:53.169
+abc logged in at 2022-04-08 21:48:48.707
+abc logged in at 2022-04-08 21:52:20.476
+ferin logged in at 2022-04-08 22:19:22.284
+ferin logged in at 2022-04-08 22:21:46.624
+ferin logged in at 2022-04-08 22:24:17.471
+ferin logged in at 2022-04-08 22:30:12.672
+>>>>>>> c5c53eea67bc8b772abcfa65cf83734cf5943ef3
+shivam logged in at 2022-04-09 12:34:16.298
+shivam logged in at 2022-04-09 12:48:48.475
+shivam logged in at 2022-04-09 12:50:23.151
+shivam logged in at 2022-04-09 16:06:42.685
+shivam logged in at 2022-04-09 16:50:38.184
+shivam logged in at 2022-04-09 16:57:08.384
+User shivam created new table table1in database1|2022-04-09 17:13:01
+0000 logged in at 2022-04-09 18:16:46.838
+0000 logged out at 2022-04-09 18:16:56.484
+0000 logged in at 2022-04-09 18:19:40.641
+0000 logged in at 2022-04-09 20:55:43.903
+0000 logged in at 2022-04-09 20:56:58.323
+0000 logged in at 2022-04-09 21:02:49.495
+abc logged in at 2022-04-10 00:38:39.718
+abc logged in at 2022-04-10 00:46:49.852
+abc logged in at 2022-04-10 00:48:32.804
+abc logged in at 2022-04-10 13:00:10.539
+abc logged in at 2022-04-10 13:05:10.253
+chirag logged in at 2022-04-10 13:11:44.832
+shivam logged in at 2022-04-10 14:51:43.561
+shivam logged in at 2022-04-10 14:52:26.592
+shivam logged in at 2022-04-10 14:53:30.657
+shivam logged in at 2022-04-10 14:54:16.62
+shivam logged in at 2022-04-10 14:55:40.198
+0000 logged in at 2022-04-10 21:12:50.679
+0000 logged in at 2022-04-10 21:13:32.527
+0000 logged out at 2022-04-10 21:13:44.848
+ferin79 logged in at 2022-04-10 21:25:11.98
+ferin79 logged in at 2022-04-10 21:29:29.372
+shivam logged in at 2022-04-10 21:54:56.427
+shivam logged in at 2022-04-10 21:59:50.31
+shivam logged in at 2022-04-10 22:00:26.384
+shivam logged in at 2022-04-10 22:05:00.75
+shivam logged in at 2022-04-10 22:07:52.873

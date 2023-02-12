@@ -1,0 +1,78 @@
+true|Create|shivam|[CREATE, DATABASE, shivam]|2022-04-08 21:59:20|0
+true|Create|shivam| CREATE DATABASE shivam|2022-04-08 22:01:19|0
+true|Create|shivam|CREATE DATABASE shivam2|2022-04-09 00:53:26|4
+true|Use|shivam|USE DATABASE1|2022-04-09 01:48:23|1
+true|Use|shivam|USE DATABASE1|2022-04-09 01:49:39|2
+true|Select|shivam|SELECT * FROM TABLE1 WHERE did = 1;|2022-04-09 01:51:03|34
+true|Select|shivam|SELECT * FROM table1 WHERE did = 1;|2022-04-09 01:51:22|0
+true|Use|shivam|USE DATABASE1|2022-04-09 11:18:27|0
+true|Select|shivam|SELECT * FROM TABLE1 WHERE DID = 1;|2022-04-09 11:18:49|39
+true|Use|shivam|USE DATABASE1|2022-04-09 11:33:50|1
+true|Use|shivam|USE DATABASE1|2022-04-09 11:35:53|1
+true|Select|shivam|SELECT * FROM table1 WHERE did = 1|2022-04-09 11:38:24|65
+true|Create|shivam|CREATE DATABASE DB|2022-04-09 11:39:03|3
+true|Use|shivam|use database1|2022-04-09 16:50:43|3
+true|Select|shivam|select * from table1|2022-04-09 16:50:51|5
+true|Use|shivam|use database1|2022-04-09 16:57:32|13
+true|Insert|shivam|insert into table1 values (5, 'demo')|2022-04-09 17:01:36|0
+true|Update|shivam|update table1 set dname='demo' where did=2|2022-04-09 17:07:25|3
+true|Delete|shivam|delete from table1 where did=2|2022-04-09 17:09:54|1
+true|Create|shivam|create database database1|2022-04-09 17:12:42|23
+true|Use|shivam|use database1|2022-04-09 17:12:56|1
+true|Create|shivam|create table table1 (id int, first_name varchar(20), last_name varchar(20), primary key (id))|2022-04-09 17:13:01|48
+true|Insert|shivam|insert into table1 values (1, 'demo', 'demo')|2022-04-09 17:13:45|1
+true|Insert|shivam|insert into table1 values (2, 'test', 'test')|2022-04-09 17:13:50|1
+true|Select|shivam|select * from table1 where id=1|2022-04-09 17:13:56|2
+true|Select|shivam|select * from table1 where id=1|2022-04-09 17:14:20|1
+true|Select|shivam|select * from table1 where id>0|2022-04-09 17:15:34|0
+true|Update|shivam|update table1 set last_name='demo' where id=2|2022-04-09 17:15:43|1
+true|Delete|shivam|delete from table1 where id=2|2022-04-09 17:15:58|0
+true|Select|abc|select * from table1 where id=1|2022-04-10 00:39:23|23
+true|Use|abc|use ferindb2|2022-04-10 00:39:37|0
+true|Select|abc|select * from table1 where id=1|2022-04-10 00:39:58|17
+true|Select|abc|select * from table1|2022-04-10 00:40:22|2
+true|Use|abc|use ferindb2|2022-04-10 00:50:42|3
+true|Select|abc|select * from table1 where id=1|2022-04-10 00:50:42|5
+true|Select|abc|select * from table1 where id=1|2022-04-10 00:50:42|1
+true|Select|abc|select * from table1 where id=2|2022-04-10 00:50:42|0
+true|Use|abc|use ferindb2|2022-04-10 13:02:30|39
+true|Select|abc|select * from table1|2022-04-10 13:03:19|53
+true|Delete|abc|delete from table1 where id=4|2022-04-10 13:03:19|7
+true|Select|abc|select * from table1 where id=1|2022-04-10 13:04:15|0
+true|Use|abc|use ferindb2|2022-04-10 13:05:37|2
+true|Select|abc|select * from table1 where id=1|2022-04-10 13:05:44|5
+true|Update|abc|update table1 set name='abc' where id=1|2022-04-10 13:06:35|2
+true|Use|chirag|use ferindb2|2022-04-10 13:12:41|0
+true|Start|shivam|start transaction|2022-04-10 14:55:47|0
+true|rollback|shivam|rollback|2022-04-10 14:56:45|0
+true|Create|ferin79|create database test|2022-04-10 21:25:23|4
+true|Use|ferin79|use test|2022-04-10 21:25:55|0
+true|Use|ferin79|use test|2022-04-10 21:29:33|3
+true|Insert|ferin79|insert into persons values (1, 'ferin', 'patel')|2022-04-10 21:30:03|15
+true|Select|ferin79|select * from persons where id=1|2022-04-10 21:30:33|6
+true|Select|ferin79|select * from persons where personid=1|2022-04-10 21:31:20|9
+true|Select|ferin79|select * from persons|2022-04-10 21:33:12|3
+true|Select|ferin79|select * from persons|2022-04-10 21:33:22|3
+true|Select|ferin79|select * from persons|2022-04-10 21:35:32|3
+true|Select|ferin79|select * from persons|2022-04-10 21:36:46|1
+true|Create|ferin79|create database database1|2022-04-10 21:44:39|3
+true|Use|shivam|use database1|2022-04-10 21:55:01|1
+true|Start|shivam|start transaction|2022-04-10 21:55:08|0
+true|commit|shivam|commit|2022-04-10 21:57:55|0
+true|Use|shivam|use database1|2022-04-10 22:01:09|2
+true|Start|shivam|start transaction|2022-04-10 22:01:15|0
+true|commit|shivam|commit|2022-04-10 22:02:18|0
+true|Insert|shivam|insert into table1 values (1, 'demo', 'demo')|2022-04-10 22:02:18|10
+true|Insert|shivam|insert into table1 values (2, 'test', 'test')|2022-04-10 22:02:18|3
+true|Select|shivam|select * from table1 where id=1|2022-04-10 22:02:18|3
+true|Select|shivam|select * from table1 where id>0|2022-04-10 22:02:18|4
+true|Update|shivam|update table1 set last_name='demo' where id=2|2022-04-10 22:02:18|10
+true|Delete|shivam|delete from table1 where id=1|2022-04-10 22:02:18|9
+true|Use|shivam|use database1|2022-04-10 22:05:06|9
+true|Start|shivam|start transaction|2022-04-10 22:05:12|0
+true|commit|shivam|commit|2022-04-10 22:05:31|0
+true|Select|shivam|select * from table1|2022-04-10 22:05:31|4
+true|Use|shivam|use database1|2022-04-10 22:07:58|2
+true|Start|shivam|start transaction|2022-04-10 22:08:04|0
+true|commit|shivam|commit|2022-04-10 22:08:16|0
+true|Select|shivam|select * from table1|2022-04-10 22:08:16|4
